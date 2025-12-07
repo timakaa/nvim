@@ -1,6 +1,6 @@
-require("theprimeagen.set")
-require("theprimeagen.remap")
-require("theprimeagen.lazy_init")
+require("timakaa.set")
+require("timakaa.remap")
+require("timakaa.lazy_init")
 
 -- DO.not
 -- DO NOT INCLUDE THIS
